@@ -1,7 +1,9 @@
-package com.example.malltiny01;
+package com.example.mall.tiny;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
+
+
 
 @SpringBootApplication
 public class MallTiny01Application {
